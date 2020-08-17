@@ -163,6 +163,10 @@ app.post("/publishS3MetaData", async (req, response) => {
     response.send('Ok');
 });
 
+app.get("/", async (req, response) => {response.json({
+    key: 'Welcome to Managed Services Assignment'
+})})
+
 createServer(app).listen(3000, "0.0.0.0", () => (
     console.log('Started!')
 ));
