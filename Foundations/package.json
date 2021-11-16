@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tejaswaroop51/PGPCC#readme",
   "dependencies": {
-    "aws-sdk": "^2.709.0"
+    "aws-sdk": "^2.814.0"
   }
 }
