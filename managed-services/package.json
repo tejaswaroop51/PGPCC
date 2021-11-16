@@ -9,7 +9,7 @@
   "author": "Tejaswaroop Vankadari",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.734.0",
+    "aws-sdk": "^2.814.0",
     "babel": "^6.23.0",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
